@@ -26,7 +26,7 @@ dependencies:
   # extended_image: ^0.7.2 // some bug
   extended_image:
     git:
-      url: git://github.com/jonataslaw/extended_image.git
+      url: https://github.com/jonataslaw/extended_image.git
   sticky_headers: ^0.1.8
   flutter_rating_bar: ^3.0.1
   waterfall_flow: ^0.1.3
